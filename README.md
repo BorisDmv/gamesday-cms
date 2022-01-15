@@ -1,3 +1,3 @@
-# Strapi application
+# Gamesday CMS Strapi application
 
-A quick description of your strapi application
+This is the strapi cms.The API is fetching video games from the database which is postrgresql hosted in heroku and for the media storage is used cloudinary
